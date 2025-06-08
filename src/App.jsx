@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <a href="/actividades/actividades.html" target="_blank" rel="noopener noreferrer">
+        Ir a Actividades
+      </a>
     </>
   )
 }
